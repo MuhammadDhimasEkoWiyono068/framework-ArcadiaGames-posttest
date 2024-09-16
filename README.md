@@ -2,7 +2,10 @@
 ### NIM  : 2109106068
 
 
-# ARCADIA GAMES
+<p align="center">
+  # ARCADIA GAMES
+</p>
+
 
 ## POSTTEST 1
 
