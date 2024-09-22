@@ -20,9 +20,17 @@
 ### -Table User
 **Data**
 ![Landing Page](https://drive.google.com/uc?export=view&id=1CqItrDcVgT8TfpceMVNcKY9cTGz_qr2q)
+**Struktur**
+![Landing Page](https://drive.google.com/uc?export=view&id=185Pkm6hH8wKMS-Hyx9NPGwWPaBMcgrZn)
 
 ### -Table Game
+**Data**
 ![Landing Page](https://drive.google.com/uc?export=view&id=1BLwHqeRYXd_nx8u78b0Hue5EWWikpEns)
+**Struktur**
+![Landing Page](https://drive.google.com/uc?export=view&id=)
 
 ### -Table Transaksi
+**Data**
 ![Landing Page](https://drive.google.com/uc?export=view&id=1Qe4zuXTVMdSLuj3u71eArvb5d74vjHnw)
+**Struktur**
+![Landing Page](https://drive.google.com/uc?export=view&id=)
