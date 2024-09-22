@@ -33,4 +33,4 @@
 **Data**
 ![Landing Page](https://drive.google.com/uc?export=view&id=1Qe4zuXTVMdSLuj3u71eArvb5d74vjHnw)
 **Struktur**
-![Landing Page](https://drive.google.com/uc?export=view&id=)
+![Landing Page](https://drive.google.com/uc?export=view&id=1hPw2xkFq7hqA0YuFFcLFqxKY5Hr6IPbb)
