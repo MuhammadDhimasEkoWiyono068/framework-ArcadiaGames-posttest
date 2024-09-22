@@ -17,11 +17,12 @@
 ### -Screenshot Database
 ![Landing Page](https://drive.google.com/uc?export=view&id=1TlgG0xdwAjCrmh1JNwBUAfb_EL86B_4B)
 
-## -Data Table User
+### -Table User
+ Data
 ![Landing Page](https://drive.google.com/uc?export=view&id=1CqItrDcVgT8TfpceMVNcKY9cTGz_qr2q)
 
-### -Data Table Game
+### -Table Game
 ![Landing Page](https://drive.google.com/uc?export=view&id=1BLwHqeRYXd_nx8u78b0Hue5EWWikpEns)
 
-### -Data Table Transaksi
+### -Table Transaksi
 ![Landing Page](https://drive.google.com/uc?export=view&id=1Qe4zuXTVMdSLuj3u71eArvb5d74vjHnw)
