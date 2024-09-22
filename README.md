@@ -21,7 +21,7 @@
 **Data**
 ![Landing Page](https://drive.google.com/uc?export=view&id=1CqItrDcVgT8TfpceMVNcKY9cTGz_qr2q)
 **Struktur**
-![Landing Page](https://drive.google.com/uc?export=view&id=185Pkm6hH8wKMS-Hyx9NPGwWPaBMcgrZn)
+![Landing Page](https://drive.google.com/uc?export=view&id=1MrtpUDAVdjs39bLlEn80RYoAye9ZQWqY)
 
 ### -Table Game
 **Data**
