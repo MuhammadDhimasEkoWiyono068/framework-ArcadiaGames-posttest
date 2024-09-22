@@ -27,7 +27,7 @@
 **Data**
 ![Landing Page](https://drive.google.com/uc?export=view&id=1BLwHqeRYXd_nx8u78b0Hue5EWWikpEns)
 **Struktur**
-![Landing Page](https://drive.google.com/uc?export=view&id=)
+![Landing Page](https://drive.google.com/uc?export=view&id=1U_FuOwjQML5f2gCIhTNxrshh7WEsWTt9)
 
 ### -Table Transaksi
 **Data**
