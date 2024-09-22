@@ -18,7 +18,7 @@
 ![Landing Page](https://drive.google.com/uc?export=view&id=1TlgG0xdwAjCrmh1JNwBUAfb_EL86B_4B)
 
 ### -Table User
- Data
+**Data**
 ![Landing Page](https://drive.google.com/uc?export=view&id=1CqItrDcVgT8TfpceMVNcKY9cTGz_qr2q)
 
 ### -Table Game
