@@ -30,6 +30,7 @@
 ![Landing Page](https://drive.google.com/uc?export=view&id=1U_FuOwjQML5f2gCIhTNxrshh7WEsWTt9)
 
 ### -Table Transaksi
+Data transaksi tidak dapat dimasukkan langsung menggunakan perintah python manage.py seed GameStore --number=20, karena transaksi hanya dapat dibuat setelah data pengguna dan game ada. Untuk memasukkan data transaksi, gunakan file khusus di GameStore\ArcadiaGames\management\commands bernama seed_purchases.py, dan jalankan perintah python manage.py seed_purchases --number=20.
 **Data**
 ![Landing Page](https://drive.google.com/uc?export=view&id=1Qe4zuXTVMdSLuj3u71eArvb5d74vjHnw)
 **Struktur**
