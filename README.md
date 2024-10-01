@@ -40,4 +40,6 @@ Data transaksi tidak dapat dimasukkan langsung menggunakan perintah `python mana
 ## **POSTTEST 3**
 
 ### -Screenshot Form dan Tabel Django Admin
-#### tes123
+#### User
+**User**
+![Landing Page](https://drive.google.com/uc?export=view&id=1Wf0kMMdQ54Wie8WjrjeHlstZi37bq1gR)
