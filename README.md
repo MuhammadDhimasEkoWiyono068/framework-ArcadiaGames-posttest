@@ -57,5 +57,6 @@ Karena saya bingung mau buat fungsi costom apa :v , jadi saya buat saat menambah
 ![Image](https://drive.google.com/uc?export=view&id=1Q3L62XRndoUJn1YsrzDZ8SYRmryI3vXr)
 
 ### -Static Assets
-Digunakan di index.html/n
+Digunakan di index.html
+
 ![Image](https://drive.google.com/uc?export=view&id=1zwZLzByoUzwcNYsdKurLyZ8e_Xq2oJbx)
