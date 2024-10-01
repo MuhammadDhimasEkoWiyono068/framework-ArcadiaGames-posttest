@@ -10,32 +10,32 @@
 ![Landing Page](https://drive.google.com/uc?export=view&id=19ixEJYNXrw0ixAgCzulALT1USTO89h3P)
 
 ### -About
-![Landing Page](https://drive.google.com/uc?export=view&id=18lgDbD2AQ7nj0TfPxbzGKzfBzhWcGmQV)
+![About](https://drive.google.com/uc?export=view&id=18lgDbD2AQ7nj0TfPxbzGKzfBzhWcGmQV)
 
 ## **POSTTEST 2**
 
 ### -Screenshot Database
-![Landing Page](https://drive.google.com/uc?export=view&id=1TlgG0xdwAjCrmh1JNwBUAfb_EL86B_4B)
+![Database](https://drive.google.com/uc?export=view&id=1TlgG0xdwAjCrmh1JNwBUAfb_EL86B_4B)
 
 ### -Table User
 **Data**
-![Landing Page](https://drive.google.com/uc?export=view&id=1CqItrDcVgT8TfpceMVNcKY9cTGz_qr2q)
+![Image](https://drive.google.com/uc?export=view&id=1CqItrDcVgT8TfpceMVNcKY9cTGz_qr2q)
 **Struktur**
-![Landing Page](https://drive.google.com/uc?export=view&id=1MrtpUDAVdjs39bLlEn80RYoAye9ZQWqY)
+![Image](https://drive.google.com/uc?export=view&id=1MrtpUDAVdjs39bLlEn80RYoAye9ZQWqY)
 
 ### -Table Game
 **Data**
-![Landing Page](https://drive.google.com/uc?export=view&id=1BLwHqeRYXd_nx8u78b0Hue5EWWikpEns)
+![Image](https://drive.google.com/uc?export=view&id=1BLwHqeRYXd_nx8u78b0Hue5EWWikpEns)
 **Struktur**
-![Landing Page](https://drive.google.com/uc?export=view&id=1U_FuOwjQML5f2gCIhTNxrshh7WEsWTt9)
+![Image](https://drive.google.com/uc?export=view&id=1U_FuOwjQML5f2gCIhTNxrshh7WEsWTt9)
 
 ### - Table Transaksi
 Data transaksi tidak dapat dimasukkan langsung menggunakan perintah `python manage.py seed GameStore --number=20`, karena transaksi hanya dapat dibuat setelah data pengguna dan game ada. Untuk memasukkan data transaksi, gunakan file khusus di `GameStore\ArcadiaGames\management\commands` bernama `seed_purchases.py`, dan jalankan perintah `python manage.py seed_purchases --number=20`.
 
 **Data**
-![Landing Page](https://drive.google.com/uc?export=view&id=1Qe4zuXTVMdSLuj3u71eArvb5d74vjHnw)
+![Image](https://drive.google.com/uc?export=view&id=1Qe4zuXTVMdSLuj3u71eArvb5d74vjHnw)
 **Struktur**
-![Landing Page](https://drive.google.com/uc?export=view&id=1hPw2xkFq7hqA0YuFFcLFqxKY5Hr6IPbb)
+![Image](https://drive.google.com/uc?export=view&id=1hPw2xkFq7hqA0YuFFcLFqxKY5Hr6IPbb)
 
 ## **POSTTEST 3**
 
@@ -43,3 +43,7 @@ Data transaksi tidak dapat dimasukkan langsung menggunakan perintah `python mana
 **User**
 ![Form User](https://drive.google.com/uc?export=view&id=1-_EN9Vxzrx9m0rW8UltuajAKG6-VOgXX)
 ![Tabel User](https://drive.google.com/uc?export=view&id=1Wf0kMMdQ54Wie8WjrjeHlstZi37bq1gR)
+
+**Game**
+![Image](https://drive.google.com/uc?export=view&id=1U4_AMuIpeLKV_ZnPviokmMCx_isdFg7Q)
+![Image](https://drive.google.com/uc?export=view&id=1Dmzh3wE7kJf8D084YtFQ4GlFzgvVtgAJ)
