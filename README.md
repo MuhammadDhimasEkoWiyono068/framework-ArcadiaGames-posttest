@@ -47,3 +47,15 @@ Data transaksi tidak dapat dimasukkan langsung menggunakan perintah `python mana
 **Game**
 ![Image](https://drive.google.com/uc?export=view&id=1U4_AMuIpeLKV_ZnPviokmMCx_isdFg7Q)
 ![Image](https://drive.google.com/uc?export=view&id=1Dmzh3wE7kJf8D084YtFQ4GlFzgvVtgAJ)
+
+**Transaksi**
+![Image](https://drive.google.com/uc?export=view&id=1N56rciOyAMOPzi4WSsEIAQqyoZgx1r9D)
+![Image](https://drive.google.com/uc?export=view&id=1V9qpS-eACP5P8qydPEcuvba5wtVluPxS)
+
+### -Aksi/Function Custom
+Karena saya bingung mau buat fungsi costom apa :v , jadi saya buat saat menambahkan game maka akan menambahkan data transaksi dari akun random yang ada di database user.
+![Image](https://drive.google.com/uc?export=view&id=1Q3L62XRndoUJn1YsrzDZ8SYRmryI3vXr)
+
+### -Static Assets
+Digunakan di index.html
+![Image](https://drive.google.com/uc?export=view&id=1zwZLzByoUzwcNYsdKurLyZ8e_Xq2oJbx)
