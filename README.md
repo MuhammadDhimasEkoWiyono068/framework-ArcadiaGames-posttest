@@ -78,7 +78,7 @@ Digunakan di index.html
 ![Image](https://drive.google.com/uc?export=view&id=1V6cE0dFoEyyt-RiOnGX3TeWSpOSVuqKC)
 
 ### -Delete
-**Hapus Game**
+**Hapus Game**<br>
 Hapus Game TES123
 ![Image](https://drive.google.com/uc?export=view&id=1OcH-HQ_kYeQQk7WVkvuL4NAld73CBgXy)
 ![Image](https://drive.google.com/uc?export=view&id=1j_ULvBwbTTqDmURaXTfZBMa0hASpLVo8)
