@@ -1,0 +1,92 @@
+{% extends 'homepage/layout.html' %}
+{% load humanize %}
+
+{% block content %}
+<div class="container">
+    <h1>Game List</h1>
+    <a href="{% url 'add_game' %}" class="btn btn-primary mb-3">Add Game</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th style="text-align: center;">Image</th>
+                <th style="width: 20%; text-align: center;">Title</th>
+                <th style="width: 30%; text-align: center;">Description</th>
+                <th style="width: 10%; text-align: center;">Price</th>
+                <th style="width: 10%; text-align: center;">Developer</th>
+                <th style="width: 10%; text-align: center;">Release Date</th>
+                <th style="text-align: center;">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for game in games %}
+            <tr>
+                <td><img src="{{ game.image.url }}" alt="{{ game.title }}" width="250"></td>
+                <td>{{ game.title }}</td>
+                <td>{{ game.description }}</td>
+                <td>Rp {{ game.price|floatformat:0|intcomma }}</td>
+                <td>{{ game.developer }}</td>
+                <td>{{ game.release_date }}</td>
+                <!-- <td>
+                    <a href="{% url 'game_update' game.id %}" class="btn btn-sm btn-warning">Ubah</a>
+                    <button class="btn btn-sm btn-danger" onclick="confirmDelete('{{ game.id }}')">Hapus</button>
+                </td> -->
+                <td>
+                    <div class="d-flex gap-2">  <!-- Menggunakan d-flex dan gap-2 untuk memberi jarak -->
+                        <a href="{% url 'game_update' game.id %}" class="btn btn-sm btn-warning">Edit</a>
+                        <button class="btn btn-sm btn-danger" onclick="confirmDelete('{{ game.id }}')">Delete</button>
+                    </div>
+                </td>
+                
+            </tr>
+            {% empty %}
+            <tr>
+                <td colspan="7" class="text-center">No game data</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+function confirmDelete(gameId) {
+    Swal.fire({
+        title: 'Game data will be deleted',
+        text: 'Data cannot be returned!',
+        icon: 'warning',
+        showCancelButton: true,
+        confirmButtonColor: '#3085d6',
+        cancelButtonColor: '#d33',
+        confirmButtonText: 'Yes, Delete!'
+    }).then((result) => {
+        if (result.isConfirmed) {
+            // AJAX request untuk menghapus game
+            fetch(`/game/delete/${gameId}/`, {
+                method: 'POST',
+                headers: {
+                    'X-CSRFToken': '{{ csrf_token }}'
+                }
+            }).then(response => {
+                if (response.ok) {
+                    Swal.fire(
+                        'Deleted!',
+                        'Game data has been successfully deleted.',
+                        'success'
+                    ).then(() => {
+                        // Reload halaman setelah berhasil
+                        window.location.reload();
+                    });
+                } else {
+                    Swal.fire(
+                        'Error!',
+                        'There was a problem deleting game data.',
+                        'error'
+                    );
+                }
+            });
+        }
+    });
+}
+</script>
+
+{% endblock %}
