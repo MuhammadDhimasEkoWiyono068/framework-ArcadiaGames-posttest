@@ -76,3 +76,11 @@ Digunakan di index.html
 ![Image](https://drive.google.com/uc?export=view&id=1H6optJF5cXtPsTapYPCpnem6flgGrz48)
 **Tabel Setelah Tambah Game**
 ![Image](https://drive.google.com/uc?export=view&id=1V6cE0dFoEyyt-RiOnGX3TeWSpOSVuqKC)
+
+### -Delete
+**Hapus Game**
+Hapus Game TES123
+![Image](https://drive.google.com/uc?export=view&id=1OcH-HQ_kYeQQk7WVkvuL4NAld73CBgXy)
+![Image](https://drive.google.com/uc?export=view&id=1j_ULvBwbTTqDmURaXTfZBMa0hASpLVo8)
+**Tabel Setelah Hapus Game**
+![Image](https://drive.google.com/uc?export=view&id=1_ZJpLxqKvtrKZgO2FtmNaO9_kHnqDfpk)
