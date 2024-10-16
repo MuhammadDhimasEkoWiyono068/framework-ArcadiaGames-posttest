@@ -60,3 +60,8 @@ Karena saya bingung mau buat fungsi costom apa :v , jadi saya buat saat menambah
 Digunakan di index.html
 
 ![Image](https://drive.google.com/uc?export=view&id=1zwZLzByoUzwcNYsdKurLyZ8e_Xq2oJbx)
+
+## **POSTTEST 4**
+
+### -Tabel Sebelum CRUD
+![Image](https://drive.google.com/uc?export=view&id=1Dmzh3wE7kJf8D084YtFQ4GlFzgvVtgAJ)
