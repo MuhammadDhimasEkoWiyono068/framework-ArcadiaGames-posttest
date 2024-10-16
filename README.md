@@ -65,3 +65,14 @@ Digunakan di index.html
 
 ### -Tabel Sebelum CRUD
 ![Image](https://drive.google.com/uc?export=view&id=1iELGLj8pKe0l1ncwzeL_N-wpTCieaNTL)
+
+### -Read
+![Image](https://drive.google.com/uc?export=view&id=1k1p6boc2s8FI3HAsdUYYW-wuX2GT55dP)
+
+### -Create
+**Tambah Game**
+![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1AX5FcLCtZljB_YuRQMYhojJ-wLLb7VFp)
+![Image](https://drive.google.com/uc?export=view&id=1H6optJF5cXtPsTapYPCpnem6flgGrz48)
+**Tabel Setelah Tambah Game**
+![Image](https://drive.google.com/uc?export=view&id=1V6cE0dFoEyyt-RiOnGX3TeWSpOSVuqKC)
