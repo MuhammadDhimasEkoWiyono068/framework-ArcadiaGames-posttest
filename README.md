@@ -71,7 +71,6 @@ Digunakan di index.html
 
 ### -Create
 **Tambah Game**
-![Image](https://drive.google.com/uc?export=view&id=)
 ![Image](https://drive.google.com/uc?export=view&id=1AX5FcLCtZljB_YuRQMYhojJ-wLLb7VFp)
 ![Image](https://drive.google.com/uc?export=view&id=1H6optJF5cXtPsTapYPCpnem6flgGrz48)
 **Tabel Setelah Tambah Game**
@@ -84,3 +83,13 @@ Hapus Game TES123
 ![Image](https://drive.google.com/uc?export=view&id=1j_ULvBwbTTqDmURaXTfZBMa0hASpLVo8)
 **Tabel Setelah Hapus Game**
 ![Image](https://drive.google.com/uc?export=view&id=1_ZJpLxqKvtrKZgO2FtmNaO9_kHnqDfpk)
+
+### -Update
+**Edit Game**
+![Image](https://drive.google.com/uc?export=view&id=1CoUN_NUOTL6zlLBicc4XPbvrbG5hUO_x)
+![Image](https://drive.google.com/uc?export=view&id=1EfMLTuPPV3mQ7YbQB-txzluCmq3o5zf2)
+**Tabel Setelah Edit Game**
+![Image](https://drive.google.com/uc?export=view&id=1445YeDKit8bx7zHlbvhzWZRAHHc8n5OS)
+
+### -Search
+![Image](https://drive.google.com/uc?export=view&id=1uHJ5FDTiFAfodedjHP4HASa7BgFN8FWQ)
